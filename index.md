@@ -9,3 +9,6 @@ Se completó el archivo con los distintos tamaños de headers
 ``` C
 printf("Hola noviembre!");
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
